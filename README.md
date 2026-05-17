@@ -89,4 +89,4 @@ Runtime Comparisons were:-
 SA = Fastest for all N
 Greedy = Fast at small N but slow after N > 100
 GA = Slowest
-DFS = Only practical for small N
+DFS = Only practical for small N.
